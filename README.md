@@ -1,6 +1,6 @@
 # CommentGenerator
 A simple program that returns a stylized comment. 
 
-I am using this program to split my code sections, glad if i helped you. 
+I am using this program to split my code sections, glad if I helped you. 
 
 Do not forget to tell me if you find any bugs and have fun.
